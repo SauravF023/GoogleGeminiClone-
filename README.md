@@ -93,7 +93,7 @@ src
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/gemini-clone.git
+git clone https://github.com/SauravF023/GoogleGeminiClone-.git
 ```
 
 Navigate into the project
