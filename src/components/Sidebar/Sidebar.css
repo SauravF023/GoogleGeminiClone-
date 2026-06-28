@@ -1,0 +1,156 @@
+.sidebar{
+    min-height: 100vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #f0f4f9;
+    padding: 25px 15px;
+}
+
+.sidebar img{
+    width: 20px;
+}
+
+.sidebar .menu{
+    display: block;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.sidebar .new-chat{
+    margin-top: 50px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 15px;
+    background-color: #e6eaf1;
+    border-radius: 50px;
+    font-size: 14px;
+    color: grey;
+    cursor: pointer; 
+}
+
+.sidebar .recent{
+    display: flex;
+    flex-direction: column;
+    animation: fadeIn 1.5s;
+}
+
+.sidebar .recent-title{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.sidebar .recent-entry{
+    display: flex;
+    align-items: start;
+    gap: 10px;
+    padding: 10px;
+    padding-right: 40px;
+    border-radius: 50px;
+    color: #282828;
+    cursor: pointer;
+}
+
+.sidebar .recent-entry:hover{
+    background-color: #e2e6eb;
+}
+
+.sidebar .bottom{
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar .bottom-item{
+    padding-right: 10px;
+    cursor: pointer;
+
+}
+
+@media (max-width:600px) {
+    .sidebar{
+        display: none;
+    }
+}
+
+.settings-container{
+    position: relative;
+}
+
+.settings-popup{
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    background: #2d2d2d;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    width: 150px;
+    z-index: 100;
+}
+
+.settings-popup p{
+    margin: 0;
+    cursor: pointer;
+}
+
+.dark{
+    background-color: #1e1e1e;
+    color: white;
+}
+
+.dark .recent-entry{
+    color: white;
+}
+
+.dark .new-chat{
+    background-color: #2d2d2d;
+}
+
+body.dark-theme{
+    background-color: #131314;
+    color: white;
+}
+
+body.dark-theme .sidebar{
+    background-color: #1e1f20;
+}
+
+body.dark-theme .main{
+    background-color: #131314;
+    color: white;
+}
+
+body.dark-theme .card{
+    background-color: #1e1f20;
+    color: white;
+}
+
+body.dark-theme .search-box{
+    background-color: #1e1f20;
+}
+
+body.dark-theme input{
+    background: transparent;
+    color: white;
+}
+
+body.dark-theme .greet p{
+    color: white;
+}
+
+body.dark-theme .bottom-info{
+    color: #b0b0b0;
+}
+
+body.dark-theme .recent-entry:hover{
+    background-color: #2a2b2d;
+}
+
+body.dark-theme .new-chat{
+    background-color: #2a2b2d;
+}
+
+body.dark-theme .nav{
+    color: white;
+}
