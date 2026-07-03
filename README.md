@@ -239,9 +239,10 @@ Through this project, I gained practical experience with:
 
 - AI Conversation:-<img width="1098" height="601" alt="image" src="https://github.com/user-attachments/assets/08986210-ded4-4f77-a3fc-4c7c15d0195d" />
 
-- Image Upload:-<img width="1069" height="485" alt="image" src="https://github.com/user-attachments/assets/01fb8a2a-fdb7-4825-a7db-d49b23c80bb5" />
+- Image Upload:-<img width="1009" height="555" alt="image" src="https://github.com/user-attachments/assets/462b6bcb-e053-4ed1-91b2-a052e31c7972" />
 
-- Voice Input
+
+- Voice Input:-
 - Dark Mode:-<img width="1326" height="750" alt="image" src="https://github.com/user-attachments/assets/ae8eacdb-e446-4f38-8c70-2bab1b91fff8" />
 
 - Chat Export:-(Both in pdf and txt file format)
