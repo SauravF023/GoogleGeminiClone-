@@ -244,7 +244,8 @@ Through this project, I gained practical experience with:
 - Voice Input
 - Dark Mode:-<img width="1326" height="750" alt="image" src="https://github.com/user-attachments/assets/ae8eacdb-e446-4f38-8c70-2bab1b91fff8" />
 
-- Chat Export
+- Chat Export:-(Both in pdf and txt file format<img width="207" height="137" alt="image" src="https://github.com/user-attachments/assets/1bd88146-3f9a-4bae-ae38-8f6314dd6626" />
+
 
 ---
 
