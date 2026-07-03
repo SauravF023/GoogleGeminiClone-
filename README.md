@@ -235,11 +235,15 @@ Through this project, I gained practical experience with:
 
 > Add screenshots here.
 
-- Home Screen
-- AI Conversation
-- Image Upload
+- Home Screen:-<img width="1341" height="754" alt="image" src="https://github.com/user-attachments/assets/39bee37c-3b7c-4aef-bf67-e7863f210d0a" />
+
+- AI Conversation:-<img width="1098" height="601" alt="image" src="https://github.com/user-attachments/assets/08986210-ded4-4f77-a3fc-4c7c15d0195d" />
+
+- Image Upload:-<img width="1069" height="485" alt="image" src="https://github.com/user-attachments/assets/01fb8a2a-fdb7-4825-a7db-d49b23c80bb5" />
+
 - Voice Input
-- Dark Mode
+- Dark Mode:-<img width="1326" height="750" alt="image" src="https://github.com/user-attachments/assets/ae8eacdb-e446-4f38-8c70-2bab1b91fff8" />
+
 - Chat Export
 
 ---
@@ -248,8 +252,7 @@ Through this project, I gained practical experience with:
 
 **Saurav Mishra**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/SauravF023
 
 ---
 
